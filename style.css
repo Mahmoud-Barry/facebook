@@ -1,0 +1,26 @@
+body{
+    background-color: #edf0f5;
+}
+.fb-connexion{
+    margin-top: 90px;
+}
+.login-form{
+    border-radius: 6px;
+}
+.btn-connexion{
+    color: white;
+    font-weight: bold;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 15px;
+}
+.btn-creation{
+    background-color: #36a420;
+    color: white;
+    font-weight: bold;
+    border-radius: 6px;
+    font-size: 17px;
+    line-height: 48px;
+    padding: 0 15px;
+}
